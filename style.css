@@ -1,0 +1,227 @@
+h1 {color: #F08080;
+	font-family:'Quicksand', sans-serif;
+	text-align: center;
+	height: 30px;
+	margin: 0px;
+    padding: 15px;
+} 
+.introduccion{
+	color: RGB(34, 162, 111)
+}
+.pie{color: grey;
+	text-align: center;
+}
+.nosotros{
+	color: #D632ED;
+	font-family: 'Quicksand', sans-serif;
+   text-align: left; 
+
+}
+ol li{ color: #126331; 
+	list-style: disc;
+	font-family:'Quicksand', sans-serif;
+	font-size: 18px;
+
+}
+ul li{color: #38413F;
+	list-style: circle;
+	list-style: disc;
+	font-family:'Quicksand', sans-serif;
+
+}
+dl{list-style: disc;
+	font-family:'Quicksand', sans-serif;}
+.ensalada{color:#32AB51 
+}
+.tarta{color: #CB5F18
+}
+p { 
+	color:#0033ff;
+	letter-spacing:1px;
+   word-spacing:12px;
+   font-size:12px;
+   font-family: 'Quicksand', sans-serif;
+   text-align: center;
+}
+.nombre_apellido{color: #9FB2E3;
+	font-size:12px;
+   font-family: 'Quicksand', sans-serif;
+}
+.enviar{color: red;
+	font-size:12px;
+   font-family: 'Quicksand', sans-serif;
+
+}
+body{
+	background-color: #E8EDEC;
+	margin: 0px;
+}
+a:hover{
+	color: blue !important;
+
+}
+a{	list-style: disc;
+	font-family:'Quicksand', sans-serif;
+	font-size: 16px;}
+.contacto{
+	font-size:12px;
+   	font-family: 'Quicksand', sans-serif;
+	border-style: double;}
+.pregunta{
+	color:#0033ff;
+	letter-spacing:1px;
+   word-spacing:12px;
+   font-size:12px;
+   font-family: 'Quicksand', sans-serif;
+   text-align: left;
+}
+#menu{
+	width: 100%;
+	height: 15px;
+	padding: 5px 10px 40px 10px;
+	background-color: pink;
+	text-align: center;
+	background: linear-gradient(5deg,pink,#E8EDEC);
+	
+}
+#menu ul li{
+	display: inline-block;
+	padding-left: 25px;
+	padding-right: 25px;
+	color: white !important;
+
+}
+#txtnosotros{
+	width:30%;
+	height: auto;
+	margin: 10px 10px 30px 10px;
+	padding: 5px 5px 10px 10px;
+	float: right;
+}
+#inicio{
+	width: 80%;
+	margin-left: 10%;
+	height: auto;
+	overflow: hidden;
+
+}
+#nosotros{
+	width: 80%;
+	margin-left: 10%;
+	height: auto;
+	overflow: hidden;
+}
+#listas{
+	width: 80%;
+	margin-left: 10%;
+	height: auto;
+	overflow: hidden;
+}
+#contacto{
+	width: 80%;
+	margin-left: 10%;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+}
+#imgcompania{
+	width: 100%;
+	height: auto;
+
+}
+#imgcontenedor{
+	width: 65%;
+	height: auto;
+	float: left;
+}
+#video{
+	padding: 35px;
+}
+#menucontenedor{
+	position: fixed;
+	width: 100%;
+	height: 115px;
+	background-color: #E8EDEC;
+	margin-top: 0px;
+	z-index: 99;
+}
+a{
+	text-decoration: none;
+    color: #fff !important;
+}
+#imgensalada{
+	width: 65%;
+	height: auto;
+}
+#ensaladadl{
+	width:30%;
+	height: auto;
+	margin: 10px 10px 30px 10px;
+	padding: 5px 5px 10px 10px;
+	float: right;
+
+}
+#imgtarta{
+	width: 65%;
+	height: auto;
+}
+#tartadl{
+	width:30%;
+	height: auto;
+	margin: 10px 10px 30px 10px;
+	padding: 5px 5px 10px 10px;
+	float: right;
+}
+#imgsandwich{
+	width: 65%;
+	height: auto;
+}
+#sandwichul{
+	width:30%;
+	height: auto;
+	margin: 10px 10px 30px 10px;
+	padding: 5px 5px 10px 10px;
+	float: right;
+
+}
+#img2{
+	width: 100%;
+	height: 450px;
+	background-image: url(imagen2.jpg);
+	background-size: cover;
+	background-position: center center;
+}
+fieldset{
+	background: linear-gradient(0.1deg,pink,#E8EDEC);
+}
+button{
+	width: 40%;
+	height: 70px;
+	text-align: center;
+	border-style: double;
+	background: linear-gradient(0.1deg,pink,#E8EDEC);
+	margin: 10px 450px 10px 450px;
+  	cursor: pointer;
+}
+#boton button:hover{
+	border-radius: 50px;
+	color: blue;
+	transition: all 1s;
+}
+h2{
+	color: #DC9F9F;
+
+}
+
+#input:hover{
+	border-radius: 50px;
+	color: blue;
+	transition: all 1s;
+	
+}
+#input{
+	border-style: double;
+	background: linear-gradient(0.1deg,pink,#E8EDEC);
+}
+.nombre_apellido{color: #000000;
+}
